@@ -1,0 +1,60 @@
+body{
+        font-family: 'Open Sans',sans-serif;
+}
+.nav-container ul{
+    display: flex;
+    justify-content: center;
+    
+}
+.nav-container ul li{
+    list-style: none;
+    margin: 5px 20px;
+}
+
+.nav-container ul li a{
+    text-decoration: none;
+    color: black;
+}
+.about-image1 {
+    display: flex;
+    justify-content: center;
+    height: 300px;
+    margin: 50px 0px 5px 0px;
+    
+}
+.background-image{
+    background-image: url(./Images/backgroundUntitled-2.jpg);
+    background-size: cover;
+}
+button{
+    border-radius: 20px;
+    padding: 15px 35px;
+    background-color: blueviolet;
+    color: white;
+    font-weight: bold;
+}
+.alignment1{
+    text-align: center;
+    margin: 0px 400px;
+}
+.logos{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 50px;
+}
+.background-color1{
+    background-color: #F4F8FB;
+    
+}
+.icon-size{
+    width: 35px;
+}
+.icon-style img{
+    background-color: purple;
+    border-radius: 50px;
+}
+.container2{
+    display: flex;
+    justify-content: center;
+    
+}
